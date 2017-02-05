@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GO Spray</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_assault_rifles"> Assault Rifles </string>
+    <string name="assault_button"> Assault Rifles </string>
+    <string name="activity_smgs"> SMGs </string>
+    <string name="smg_button"> SMGs </string>
+
+
+    <string name="mac10_button"> MAC-10 </string>
+    <string name="mp9_button"> MP9 </string>
+    <string name="mp7_button"> MP7 </string>
+    <string name="p90_button"> P90 </string>
+    <string name="ppbizon_button"> PP BIZON </string>
+    <string name="ump45_button"> UMP-45 </string>
+
+    <string name="activity_mac10"> MAC-10 </string>
+    <string name="activity_mp9"> MP9 </string>
+    <string name="activity_mp7"> MP7 </string>
+    <string name="activity_p90"> P90 </string>
+    <string name="activity_ppbizon"> PP BIZON </string>
+    <string name="activity_ump45"> UMP45 </string>
+
+    <string name="ak47_button"> AK47 </string>
+    <string name="aug_button"> AUG </string>
+    <string name="famas_button"> FAMAS </string>
+    <string name="galil_ar_button"> GALIL-AR </string>
+    <string name="m4a1_button"> M4-A1 </string>
+    <string name="m4a1s_button"> M4-A4S </string>
+    <string name="m4a4_button"> M4-A4 </string>
+    <string name="sg_553_button"> SG-553 </string>
+    <string name="scar_20_button"> SCAR-20 </string>
+    <string name="g3_sg1_button"> G3-SG1 </string>
+    <string name="ssg_08_button"> SSG-08 </string>
+
+
+    <string name="activity_ak47"> AK-47 </string>
+    <string name="activity_aug"> AUG </string>
+    <string name="activity_famas"> FAMAS </string>
+    <string name="activity_galil_ar"> GALIL-AR </string>
+    <string name="activity_m4a1"> M4A1 </string>
+    <string name="activity_m4a1s"> M4A1S </string>
+    <string name="activity_m4a4"> M4A4 </string>
+    <string name="activity_sg_553"> SG-553 </string>
+    <string name="activity_scar_20"> SCAR 20 </string>
+    <string name="activity_g3sg1"> G3-SG1 </string>
+    <string name="activity_ssg_08"> SSG-08 </string>
+
+
+    <string-array name="planets_array">
+        <item>AK-47</item>
+        <item>AUG</item>
+        <item>FAMAS</item>
+        <item>GALIL-AR</item>
+        <item>G3-SG1</item>
+        <item>M4A1</item>
+        <item>M4A1S</item>
+        <item>M4A4</item>
+        <item>SCAR-20</item>
+        <item>SG-553</item>
+        <item></item>
+        <item>M4A4</item>
+    </string-array>
+
+</resources>

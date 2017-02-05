@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.michaelryan.hellodroid">
+
+    <!-- <uses-sdk -->
+    <!-- android:minSdkVersion="14" -->
+    <!-- android:targetSdkVersion="23" /> -->
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/csgoicon"
+        android:label="CS:GO PRO"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".AssaultRifles"
+            android:label="@string/activity_assault_rifles"
+            android:parentActivityName=".MainActivity">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity android:name=".SMGs"
+            android:label="SMGs"
+            android:parentActivityName=".MainActivity">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+
+        </activity>
+        <activity android:name=".mac10">
+            <meta-data
+                android:name="com.google.android.gms.version"
+                android:value="@integer/google_play_services_version" />
+        </activity>
+        <activity android:name=".mp9">
+            <meta-data
+                android:name="com.google.android.gms.version"
+                android:value="@integer/google_play_services_version" />
+        </activity>
+        <activity android:name=".mp7">
+            <meta-data
+                android:name="com.google.android.gms.version"
+                android:value="@integer/google_play_services_version" />
+        </activity>
+        <activity android:name=".p90">
+            <meta-data
+                android:name="com.google.android.gms.version"
+                android:value="@integer/google_play_services_version" />
+        </activity>
+        <activity android:name=".ppbizon">
+            <meta-data
+                android:name="com.google.android.gms.version"
+                android:value="@integer/google_play_services_version" />
+        </activity>
+        <activity android:name=".ump45">
+            <meta-data
+                android:name="com.google.android.gms.version"
+                android:value="@integer/google_play_services_version" />
+        </activity>
+        <activity android:name=".ak47"></activity>
+        <activity android:name=".AUG"></activity>
+        <activity android:name=".FAMAS"></activity>
+        <activity android:name=".G3SG1"></activity>
+        <activity android:name=".Galil_AR"></activity>
+        <activity android:name=".M4A1"></activity>
+        <activity android:name=".m4a1s"></activity>
+        <activity android:name=".m4a4"></activity>
+        <activity android:name=".Scar_20"></activity>
+        <activity android:name=".SG_553"></activity>
+        <activity android:name=".SSG_08"></activity>
+
+    </application>
+
+</manifest>

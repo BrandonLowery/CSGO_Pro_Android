@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_9eeb9fc2f75ddd5e631d399b8480f982c3003396.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_6086f328f4f43adfe0bb44e06fd20f39a618e15b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_6ba76e90f14ea14077ea24bca8213e84ec6e7b64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_e5e03a350d2159564c6f87dc10893cb1716272b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_044ab39a9e2ad1a6cbdcf23213979409c40f0bc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_c9b96175dcdfd65878ea60f6ac2c52da269a5302.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/exploded-aar/pl.droidsonroids.gif/android-gif-drawable/1.1.17/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f8c6fd043a9c060badf3fa9b77e51c422af0a8b">
+        <dex dex="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/pre-dexed/debug/pl.droidsonroids.gif-android-gif-drawable-1.1.17_f9f53901ff10eb7ec0f7994f865d93198f3b6764.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_7f901482a06f5a124b0d3dd8619df9ae9fc38d2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_fc3ae1567cbda663f6b2c0be9ef17f4e3c603bab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-beta4_929ecbb80838457516d28a853277f8cb5daa4ca2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brandon/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-beta4_e9f01cbade8064a5c34a980448ea8581b4e07564.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_fa6a9ec91ca446b1a1d9d3cfe7d16d567d9ded33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_4fdcadbd107ddaf01a4e1a5e1742844a86554323.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_3a2973699dbbad71006117ddcbb84a1e01494f1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_7fbc5b3df36c41f51f01fd5421155c0b238f0a86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_6c5ffff08972056c258fe8bb9b4bc79b1da6f5a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_68c514cc6de7e1359f458e6115ea551d74ec8470.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brandon/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_74a1302fe03a4f05934551e39b9ffc90573c2bf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/brandon/AndroidStudioProjects/hackmt-Datboi/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_cf77749542739cb0e17f99b72fd0d1e19c554da1.jar" />
+    </item>
+
+</items>
